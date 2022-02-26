@@ -1,3 +1,9 @@
+---
+layout: single
+title:  Project 01. Analysis Seoul CCTV
+---
+
+
 # 01.Analysis Seoul CCTV
 
 ## 1. 데이터 읽기
