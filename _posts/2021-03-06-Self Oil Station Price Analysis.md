@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  Project 04. Self oil Station Price Anlysis
+categories: Project_zb
 ---
 
 # 04. Self Oil Station Price Analysis

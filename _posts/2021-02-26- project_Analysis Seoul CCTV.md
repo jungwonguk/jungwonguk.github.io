@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  Project 01. Analysis Seoul CCTV
+categories: Project_zb
 ---
 
 
