@@ -1,3 +1,8 @@
+---
+layout: single
+title:  Project 04. Self oil Station Price Anlysis
+---
+
 # 04. Self Oil Station Price Analysis
 
 ## 1. 셀레니움 설치
